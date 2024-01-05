@@ -1,0 +1,11 @@
+    .scrollbar-hide::-webkit-scrollbar {
+      display: none;
+      scrollbar-width: thin;  /* "thin" or "none" */
+
+    }
+
+    .scrollbar-hide {
+      scrollbar-width: none;
+      scrollbar-width: thin;  /* "thin" or "none" */
+
+    }
